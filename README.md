@@ -1,7 +1,7 @@
 ## AI tools and workflow
 
 ### Development assistance
-I used Perplexity, an AI assistant, to generate the initial Flask
+I used Perplexity, an AI assistant, to help generate the initial Flask
 application scaffold, templates, SQLite persistence, and workflow
 smoke test. I also used it to help interpret startup errors and
 troubleshoot the local project structure.
